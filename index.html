@@ -1,1 +1,6 @@
-<!Doctype html><h1>It works!</h1>
+<!Doctype html>
+<script>
+~ function(window, id, undefined) {
+  window.location.replace( 'https://github.com/kfll/kfll.github.com/issues/' + ( id || '' ) )
+}( window, window.location.pathname.match(/\d+/)[0] )
+</script>
