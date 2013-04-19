@@ -73,12 +73,15 @@ hgroup h2 {
   float: left;
   width: 680px;
 }
-.item li {
+
+#main li {
+  word-wrap: break-word;
+  word-break: normal;
   list-style-type: lower-alpha; 
   list-style-position: inside;
 }
 
-.item-kv li {
+#main .item-kv li {
   *zoom: 1;
   list-style-type: none;
 }
