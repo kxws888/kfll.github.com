@@ -46,7 +46,7 @@ module.exports = function(grunt) {
         // [...]()
         link = link || '.'
         return '<a href="' + link + '">' + text + '</a>' + 
-               ['<code class="link-print"> (' + link + ') </code>', ''][1 * (link === '.')]
+               ['<code class="link-print" aria-hidden="true"> (' + link + ') </code>', ''][1 * (link === '.')]
       })
       // parseMultilineCode
       value = value.replace(/```(((?!```)[\S\s])*)```/g, '<pre>$1</pre>')
