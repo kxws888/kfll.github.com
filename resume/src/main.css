@@ -1,0 +1,138 @@
+/* screen */
+html {
+  color: #333;
+  font: 16px/1.8em Helvetica, Arial, sans-serif;
+}
+
+a {
+  outline: 0;
+  color: #555;
+}
+a:hover,
+a:active {
+  color: #0068b7;
+}
+
+.container {
+  margin: 0 auto;
+  width: 840px;
+}
+
+h1 {
+  font-size: 42px;
+}
+h2 {
+  font-size: 28px;
+}
+h3 {
+  font-size: 22px;
+}
+h4 {
+  font-size: 16px;
+}
+h5 {
+  font-size: 14px;
+}
+h6 {
+  font-size: 12px;
+}
+
+header {
+  color: #555;
+  padding: 40px 0 0;
+}
+hgroup h2 {
+  font-size: 16px;
+  font-weight: normal;
+  padding: 10px 0 0;
+}
+
+#main section {
+  *zoom: 1;
+  margin-top: 20px;
+  padding-top: 20px;
+  border-top: 1px dashed #999;
+}
+#main section:after,
+#main section:before {
+  content: "";
+  display: table;
+  line-height: 0;
+}
+#main section:after {
+  clear: both;
+}
+
+#main h2 {
+  float: left;
+  width: 160px;
+  margin-bottom: 10px;
+}
+
+#main ul {
+  float: left;
+  width: 680px;
+}
+.item li {
+  list-style-type: lower-alpha; 
+  list-style-position: inside;
+}
+
+.item-kv li {
+  *zoom: 1;
+  list-style-type: none;
+}
+
+.item-kv li:after,
+.item-kv li:before {
+  content: "";
+  display: table;
+  line-height: 0;
+}
+.item-kv li:after {
+  clear: both;
+}
+.item-kv label,
+.item-kv span {
+  float: left;
+}
+.item-kv label {
+  width: 80px;
+}
+.item-kv span {
+  width: 580px;
+}
+
+footer.container {
+  border-top: 1px dashed #999;
+  margin-top: 20px;
+  padding: 5px 0;
+  font-size: 12px;
+  line-height: 2em;
+  color: #666;
+}
+footer a {
+  color: #eb6100;
+  text-decoration: none;
+}
+footer a:hover,
+footer a:active {
+  color: #0068b7;
+}
+
+#operation {
+  position: absolute;
+  top: -5px;
+  right: 1%;
+  border: 1px dashed #aaa;
+  padding: 7px 15px 2px 0;
+}
+#operation a {
+  margin-left: 15px;
+  color: #666;
+  text-decoration: none;
+}
+#operation a:hover,
+#operation a:active {
+  color: #eb6100;
+}

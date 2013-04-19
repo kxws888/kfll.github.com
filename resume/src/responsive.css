@@ -1,0 +1,24 @@
+@media (max-width: 840px) {
+  body {
+    padding: 0 10px;;
+  }
+  #main h2 {
+    float: none;
+    width: 100%;
+  }
+  .container {
+    width: 100%;
+  }
+  .item {
+    float: none;
+    width: 100%;
+  }
+  .item-kv label,
+  .item-kv span {
+    float: none;
+
+  }
+  .item-kv span {
+    margin-left: 10px;
+  }
+}

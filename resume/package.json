@@ -1,0 +1,14 @@
+{
+  "name": "qichaos_resume",
+  "description": "杨奇超的个人简历",
+  "version": "0.0.1",
+  "author": {
+    "name": "Qichao Yang",
+    "email": "imkafei@gmail.com"
+  },
+  "devDependencies": {
+    "hogan.js": "~2.0.0",
+    "grunt": "~0.4.1",
+    "clean-css": "~1.0.1"
+  }
+}
