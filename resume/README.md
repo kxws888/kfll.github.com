@@ -26,7 +26,7 @@
 
 # 项目经验
 
-- 除 [GitHub 仓库](https://github.com/kfll?tab=repositories)中的项目外还有以下
+- 除 [GitHub 仓库](https://github.com/kfll)中的项目还有：
 - 天津大学[天外天工作室](http://www.twt.edu.cn)前端组组长（2010-2012）
 - [天外天社区](http://www.twt.edu.cn/ihome) 前后端（UCHOME 二次开发）
 - [天外天帐号中心](http://www.twt.edu.cn/account) 前后端
