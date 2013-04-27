@@ -31,7 +31,7 @@
 - [天外天社区](http://www.twt.edu.cn/ihome) 前后端（UCHOME 二次开发）
 - [天外天帐号中心](http://www.twt.edu.cn/account) 前后端
 - OAE 二次开发 前端（SOHO 兼职）
-- [飞跃邦](http://feiyuebang.com) 前端
+- [飞跃邦](http://www.feiyuebang.com) 前端
 - Chrome 插件开发（校园网流量查询、豆瓣FM上一曲）
 - 在学院 CADD(计算机辅助药物设计) 实验室做 Python 开发
 - 其他自用脚本、小应用
