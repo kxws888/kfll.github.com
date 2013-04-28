@@ -6,4 +6,4 @@
 
 ## Resume
 
-[kfll.github.io/resume](//kfll.github.io/resume)
+[kfll.github.io/resume](http://aomemo.com/resume)
