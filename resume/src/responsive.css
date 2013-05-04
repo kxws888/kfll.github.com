@@ -1,6 +1,15 @@
 @media (max-width: 840px) {
+  html {
+    font-size: 14px;
+  }
   body {
-    padding: 0 10px;;
+    padding: 0 10px;
+  }
+  h1 {
+    font-size: 38px;
+  }
+  h2 {
+    font-size: 24px;
   }
   #main h2 {
     float: none;
@@ -22,5 +31,9 @@
   }
   .item-kv span {
     margin-left: 10px;
+  }
+  #operation {
+    padding: 5px 15px 0 0;
+    top: -5px;
   }
 }
