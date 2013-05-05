@@ -9,7 +9,7 @@ module.exports = function(grunt) {
       },
       html: { files: { 'index.html': 'src/template.html' } },
       markdown: { files: { 'README.md': 'src/template.md' } },
-      en: { options: {pkg: grunt.file.readJSON('resume_en.json')}, files: { 'en.html': 'src/template_en.html' }}
+      en: { options: {pkg: grunt.file.readJSON('resume_en.json')}, files: { 'en/index.html': 'src/template_en.html' }}
     },
     cleancss: {
       css: {
