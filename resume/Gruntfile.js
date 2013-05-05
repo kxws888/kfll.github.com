@@ -8,7 +8,8 @@ module.exports = function(grunt) {
         pkg: grunt.file.readJSON('resume.json')
       },
       html: { files: { 'index.html': 'src/template.html' } },
-      markdown: { files: { 'README.md': 'src/template.md' } }
+      markdown: { files: { 'README.md': 'src/template.md' } },
+      en: { options: {pkg: grunt.file.readJSON('resume_en.json')}, files: { 'en.html': 'src/template_en.html' }}
     },
     cleancss: {
       css: {
@@ -94,7 +95,7 @@ module.exports = function(grunt) {
 
   grunt.registerMultiTask('convert', function(resume_json) {
     this.files.forEach(function(f) {
-      var json = parseData(this.options()['pkg'], this.target)
+      var json = parseData(this.options()['pkg'], f.dest.substr(-4))
         , template = hogan.compile(grunt.file.read(f.src[0]))
 
       grunt.file.write(f.dest, template.render(json))

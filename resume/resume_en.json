@@ -1,0 +1,58 @@
+{
+  "meta": {
+    "title": "Qichao Yang's Resume",
+    "job": "Front-End Developer"
+  },
+  "items": [
+    {
+      "title": "Personal",
+      "data": {
+        "Name": "Qichao Yang",
+        "Gender": "Male",
+        "Birth": "March, 1991",
+        "Education": "Undergraduate at Tianjin University",
+        "E-Mail": "`imkafei[at]gmail.com`",
+        "Skype": "imkafei",
+        "blog": "[aomemo.com](https://github.com/kfll/kfll.github.com/issues)",
+        "github": "[@kfll](https://github.com/kfll)"
+      },
+      "sort": ["Name", "Gender", "Birth", "Education", "E-Mail", "Skype", "blog", "github"]
+    },
+    {
+      "title": "Skills",
+      "data": [
+        "Semantic HTML、CSS、JavaScript、NodeJS",
+        "jQuery、Backbone、Seajs、Grunt、Express、Hogan.js、Bootstrap",
+        "PHP、Python、Shell、RegEx",
+        "MySQL、mongoDB",
+        "Git、Web Inspector、Markdown、Vim",
+        "GitHub PR-Issues-Flow、Google、Stack Overflow",
+        "Linux ( No virtualization experience, and neither cluster maintenance nor load balancing experience )"
+      ]
+    },
+    {
+      "title": "Experience",
+      "data": [
+        "[Repositories in GitHub](https://github.com/kfll) and the following:",
+        "[TWT Account Center](http://www.twt.edu.cn/account) [Front-end and Back-end]",
+        "OAE secondary development [Front-end][SOHO]",
+        "[feiyuebang.com](http://www.feiyuebang.com) first edition [Front-end]",
+        "[TWT API Web Console](http://www.twt.edu.cn/api/demo)",
+        "[TWT HOME](http://www.twt.edu.cn/ihome) [Front-end and Back-end]",
+        "Chrome Extensions (Bandwidth transfer query for campus network、Last song features implement for Douban FM）",
+        "Python development in CADD Lab"
+      ]
+    },
+    {
+      "title": "Others",
+      "data": [
+        "Lead of the front-end team in [twt.edu.cn](http://www.twt.edu.cn) [2010-2012]",
+        "Rubygems mirror for CERNET ever",
+        "Regard JavaScript as an elegant language",
+        "Work on OS X for a long time",
+        "WOW and Minecraft player",
+        "A bit of Perfectionism and Up-to-Date-ism :)"
+      ]
+    }
+  ]
+}
