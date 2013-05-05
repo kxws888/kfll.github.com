@@ -24,8 +24,8 @@
         "HTML、CSS、JavaScript、NodeJS、语义化",
         "jQuery、Backbone、Seajs、Grunt、Express、Hogan.js、Bootstrap",
         "PHP、Python、Shell、RegEx",
-        "MySQL、mongoDB",
-        "Git、Web Inspector、Markdown、Vim",
+        "MySQL、MongoDB",
+        "Git、Web Inspector、Markdown、Vim、Travis CI",
         "GitHub PR-Issues-Flow、Google、Stack Overflow",
         "Linux 运维（没有虚拟化、集群、负载等经验）",
         "以上技能是筛过的，浏览器端和 Node 为主，其余为辅，可能有遗漏，但定不包括渣到一定程度的技能"

@@ -21,12 +21,12 @@
     {
       "title": "Skills",
       "data": [
-        "Semantic HTML、CSS、JavaScript、NodeJS",
-        "jQuery、Backbone、Seajs、Grunt、Express、Hogan.js、Bootstrap",
-        "PHP、Python、Shell、RegEx",
-        "MySQL、mongoDB",
-        "Git、Web Inspector、Markdown、Vim",
-        "GitHub PR-Issues-Flow、Google、Stack Overflow",
+        "Semantic HTML, CSS, JavaScript, NodeJS",
+        "jQuery, Backbone, Seajs, Grunt, Express, Hogan.js, Bootstrap",
+        "PHP, Python, Shell, RegEx",
+        "MySQL, MongoDB",
+        "Git, Web Inspector, Markdown, Vim, Travis CI",
+        "GitHub PR-Issues-Flow, Google, Stack Overflow",
         "Linux ( No virtualization experience, and neither cluster maintenance nor load balancing experience )"
       ]
     },
@@ -39,7 +39,7 @@
         "[feiyuebang.com](http://www.feiyuebang.com) first edition [Front-end]",
         "[TWT API Web Console](http://www.twt.edu.cn/api/demo)",
         "[TWT HOME](http://www.twt.edu.cn/ihome) [Front-end and Back-end]",
-        "Chrome Extensions (Bandwidth transfer query for campus network、Last song features implement for Douban FM）",
+        "Chrome Extensions (Bandwidth transfer query for campus network, Last song features implement for Douban FM）",
         "Python development in CADD Lab"
       ]
     },
