@@ -6,12 +6,15 @@
 
 @media print {
   .link-print {
+    font-size: .9em;
+    color: #333;
     display: inline !important;
   }
   .hidden-print {
     display: none !important;
   }
   html {
+    font-family: "Times New Roman", "华文仿宋", "STFangSong", "仿宋", "FangSong", "华文宋体", "STSong", "宋体", "SimSun";
     color: #000;
     font-size: 14px;
   }
