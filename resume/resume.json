@@ -11,9 +11,9 @@
         "性别": "男",
         "出生": "1991 年 3 月",
         "学历": "本科 天津大学 2014 年春夏交毕业",
-        "邮箱": "`imkafei[at]gmail.com`",
+        "邮箱": "<address>imkafei[at]gmail.com</address>",
         "Skype": "imkafei",
-        "blog": "[aomemo.com](https://github.com/kfll/kfll.github.com/issues)",
+        "blog": "[aomemo.com](http://aomemo.com)",
         "github": "[@kfll](https://github.com/kfll)"
       },
       "sort": ["姓名", "性别", "出生", "学历", "邮箱", "Skype", "blog", "github"]
@@ -28,7 +28,7 @@
         "Git、Web Inspector、Markdown、Vim、Travis CI",
         "GitHub PR-Issues-Flow、Google、Stack Overflow",
         "Linux 运维（没有虚拟化、集群、负载等经验）",
-        "以上技能是筛过的，浏览器端和 Node 为主，其余为辅，可能有遗漏，但定不包括渣到一定程度的技能"
+        "以上技能是筛过的，浏览器端和 Node 为主，其余为辅，可能有遗漏，不包括渣到一定程度的技能"
       ]
     },
     {
@@ -57,7 +57,6 @@
     {
       "title": "关于我",
       "data": [
-        "认为 JavaScript 是门优雅的语言",
         "长期使用 OS X 平台（不过是黑苹果...）",
         "略微的完美主义情结、略微的版本控",
         "WOW、Minecraft 玩家"

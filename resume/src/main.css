@@ -71,8 +71,8 @@ hgroup h2 {
 }
 
 #main ul {
-  float: left;
-  width: 680px;
+  overflow: hidden;
+  *zoom: 1;
 }
 
 #main li {
@@ -96,15 +96,13 @@ hgroup h2 {
 .item-kv li:after {
   clear: both;
 }
-.item-kv label,
-.item-kv span {
-  float: left;
-}
 .item-kv label {
+  float: left;
   width: 80px;
 }
 .item-kv span {
-  width: 580px;
+  overflow: hidden;
+  *zoom: 1;
 }
 
 footer.container {
